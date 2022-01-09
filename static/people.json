@@ -1,28 +1,28 @@
 {
-  "people": [
-    {
-      "name": "Dakota",
-      "position": "President",
-      "description": "...",
-      "visible": true
-    },
-    {
-      "name": "Chisa",
-      "position": "Treasurer",
-      "description": "...",
-      "visible": false
-    },
-    {
-      "name": "Aaron",
-      "position": "Member",
-      "description": "...",
-      "visible": false
-    },
-    {
-      "name": "Justine",
-      "position": "Member",
-      "description": "...",
-      "visible": false
-    }
-  ]
+	"people": [
+		{
+			"name": "Dakota",
+			"position": "President",
+			"description": "...",
+			"visible": true
+		},
+		{
+			"name": "Chisa",
+			"position": "Treasurer",
+			"description": "...",
+			"visible": false
+		},
+		{
+			"name": "Aaron",
+			"position": "Member",
+			"description": "...",
+			"visible": false
+		},
+		{
+			"name": "Justine",
+			"position": "Member",
+			"description": "...",
+			"visible": false
+		}
+	]
 }
