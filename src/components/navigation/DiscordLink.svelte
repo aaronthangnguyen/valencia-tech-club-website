@@ -1,6 +1,6 @@
 <a href="/"
 	><svg
-		class="bg-discord-100 hover:bg-discord-200 transition ease-out delay-100 h-8 py-1 pl-3 pr-4 inline-block rounded-md"
+		class="bg-discord-100 hover:bg-discord-200 transition ease-out delay-100 h-10 py-1 pl-3 pr-4 inline-block rounded-md"
 		viewBox="0 0 292 80"
 		fill="none"
 		xmlns="http://www.w3.org/2000/svg"
