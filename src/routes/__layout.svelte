@@ -1,7 +1,10 @@
-<nav>
-	<a href="/">Home</a>
-	<a href="/projects">Projects</a>
-	<a href="/events">Events</a>
-	<a href="/people">People</a>
-</nav>
-<slot />
+<script>
+	import Navigation from '../components/navigation/Navigation.svelte';
+
+	import '../app.css';
+</script>
+
+<div class="container mx-auto">
+	<Navigation />
+	<slot />
+</div>
