@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "name": "Introduction to GitHub",
+      "datetime": "1641744914571",
+      "location": "...",
+      "link": "https://www.google.com/",
+      "visible": true
+    },
+    {
+      "name": "Unity 101",
+      "datetime": "1641744914571",
+      "location": "...",
+      "link": "https://www.google.com/",
+      "visible": true
+    },
+    {
+      "name": "Embedded Systems",
+      "datetime": "1641744914571",
+      "location": "...",
+      "link": "https://www.google.com/",
+      "visible": true
+    }
+  ]
+}

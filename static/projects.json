@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Valencia Tech Club",
+      "lead": "Chisa",
+      "description": "Description",
+      "link": "https://www.google.com/",
+      "visible": true
+    },
+    {
+      "name": "Find My Professors",
+      "lead": "Warren",
+      "description": "Description",
+      "link": "https://www.google.com/",
+      "visible": true
+    },
+    {
+      "name": "Talkie",
+      "lead": "Aaron",
+      "description": "Description",
+      "link": "https://www.google.com/",
+      "visible": true
+    }
+  ]
+}
